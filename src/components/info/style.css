@@ -1,0 +1,21 @@
+.info-sec{
+    margin: 60px auto;
+    max-width: 655px
+}
+.head-title{
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.head-text{
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 17px;
+    color: #626364;
+    line-height: 1.8;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
