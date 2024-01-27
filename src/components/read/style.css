@@ -1,0 +1,27 @@
+.rm-half{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    padding-top: 70px;
+}
+.rm-box{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+.rm-text{
+    
+    margin: 20px;
+    font-size: 1rem;
+    color: #626364;
+    line-height: 1.8;
+}
+
+.rm-color{
+    padding: 15px;
+    color: white;
+    background-color: #2D99CC;
+}
